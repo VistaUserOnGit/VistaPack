@@ -11,4 +11,4 @@ Windows Vista Extended Kernell was made by Win92 on https://msfn.org. https://ww
 # !WARNING!
 This will only work for the x64 architecture version of windows vista, just remember that in mind!
 
-# LINK: https://tinyurl.com/winvistapack
+# LINK: https://tinyurl.com/any1vistapack
